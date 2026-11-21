@@ -277,13 +277,7 @@ docker network inspect faultlab-network
 - **Tracing**: OpenTelemetry, Jaeger
 - **Chaos Tools**: Linux `tc` (traffic control), `iptables`
 
-## Resume Bullets
 
-✅ **Built a containerized fault-injection sandbox using Docker, Python, and Linux networking tools (tc, iptables) to simulate latency spikes, packet drops, and database lock contention across microservices.**
-
-✅ **Instrumented end-to-end request tracing with OpenTelemetry across Node.js, Redis, and PostgreSQL, pinpointing tail-latency bottlenecks and cascading timeout failures.**
-
-✅ **Authored automated Python verification scripts to isolate DNS, TCP, and AWS IAM permission failures, validating service recovery under strict SLA thresholds.**
 
 ## License
 
